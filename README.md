@@ -5,9 +5,9 @@
 ***
 
 ## 競技プログラミング(rating)
-- [AtCoder](https://atcoder.jp/users/kya) : <font color = "##00C0C0">1532</font>
-- [Codeforces](https://codeforces.com/profile/kyaa) : <font color = "#0000FF">1855</font>
-- [Top Coder](https://www.topcoder.com/members/kya) : <font color = "#00A900">1025</font>
+- [AtCoder](https://atcoder.jp/users/kya) : <span style = "color : #00C0C0; ">1532</span>
+- [Codeforces](https://codeforces.com/profile/kyaa) : <span style = "color : #0000FF; ">1855</span>
+- [Top Coder](https://www.topcoder.com/members/kya) : <span style = "color : #00A900; ">1025</span> 
 - [LeetCode](https://leetcode.com/kyaa/) : 1661
 
 ## SNS
