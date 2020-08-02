@@ -1,11 +1,15 @@
 # profile
-都立大学 B2.
+都立大学 B2
 
 紆余曲折あって秋田県にいます.
 
+飲みに行く人を常に募集しています.
+
+あと iPad が欲しいです.
+
 ***
 
-## 競技プログラミング(rating)
+## 競技プログラミング
 - AtCoder : [kya(1572)](https://atcoder.jp/users/kya)
 - Codeforces : [kyaa(1720)](https://codeforces.com/profile/kyaa)
 - Top Coder : [kya(1025)](https://www.topcoder.com/members/kya)
