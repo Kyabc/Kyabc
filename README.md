@@ -1,16 +1,11 @@
 # profile
-都立大学 B2
 
-紆余曲折あって秋田県にいます.
-
-飲みに行く人を常に募集しています.
-
-あと iPad が欲しいです.
+**絶対に旅行に行くぞ2020**
 
 ***
 
 ## 競技プログラミング
-- AtCoder : [kya(1572)](https://atcoder.jp/users/kya)
+- AtCoder : [kya(1594)](https://atcoder.jp/users/kya)
 - Codeforces : [kyaa(1720)](https://codeforces.com/profile/kyaa)
 - Top Coder : [kya(1025)](https://www.topcoder.com/members/kya)
 - LeetCode : [kyaa(1661)](https://leetcode.com/kyaa/)
