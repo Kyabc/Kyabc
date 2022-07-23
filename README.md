@@ -1,4 +1,4 @@
-## Competitive programming
+## Competitive Programming
 - AtCoder : [kya](https://atcoder.jp/users/kya)
 - Codeforces : [kyaa](https://codeforces.com/profile/kyaa)
 - Top Coder : [kya](https://www.topcoder.com/members/kya)
