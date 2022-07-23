@@ -6,4 +6,4 @@
 
 ## Game
 - VALORANT : terry#tws
-- Apex Legends : kya_vlrt
+- Apex Legends : terry_vlrt
