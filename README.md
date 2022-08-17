@@ -5,5 +5,5 @@
 - LeetCode: [kyaa](https://leetcode.com/kyaa/)
 
 ## Game
-- VALORANT: terry#tws
-- Apex Legends: terry_vlrt
+- VALORANT (S3): terry#tws
+- Apex Legends (B3): terry_vlrt
