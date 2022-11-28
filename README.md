@@ -15,16 +15,25 @@
     <img src="https://badgen.org/img/atcoder/kya/rating/algorithm?style=flat" alt="Rating" />
   </a>
 </p>
+<h3 align="center">🐾Profile:</h3>
 
-- 🏫 Student at Tokyo Metropolitan University [@yokoyamalab](https://github.com/YokoyamaLab)
-- 💻 Software engineer at LINE corp.
+- 🏫 Student at Tokyo Metropolitan University [@YokoyamaLab](https://github.com/YokoyamaLab)<br>
+- 💻 Software engineer at LINE corp.<br>
 - 💡 I'm interested in competitive programming, artificial intelligence, graph theory, and NLProc.
 
-<h3 align="left">🐾Languages and Tools:</h3>
+<h4 align="left">Hobby</h3>
+
+- game🎮: VALORANT, Splatoon3, Apex Legends, etc...
+- competitive programming🐜: Blue coder (AtCoder). Participated in ICPC Asia Yokohama Regional 2022.
+- music🎧: Leo Ieiri, 4s4ki, (sic)boy, wa-suta, \[Alexandros\], etc...
+
+<h3 align="center">🐾Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<h3 align="left">🐾GitHub stats:</h3>
+<h3 align="center">🐾GitHub stats:</h3>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyabc&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kyabc&theme=tokyonight&show_icons=ture" />
 </p>
+
+<h3 align="left>🐾Hobby:<
