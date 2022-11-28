@@ -16,8 +16,8 @@
   </a>
 </p>
 
-- 🏫 I'm a student at Tokyo Metropolitan University [@yokoyamalab](https://github.com/YokoyamaLab)
-- 💻 I'm a software engineer at LINE corp.
+- 🏫 Student at Tokyo Metropolitan University [@yokoyamalab](https://github.com/YokoyamaLab)
+- 💻 Software engineer at LINE corp.
 - 💡 I'm interested in competitive programming, artificial intelligence, graph theory, and NLProc.
 
 <h3 align="left">🐾Languages and Tools:</h3>
