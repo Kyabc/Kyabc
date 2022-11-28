@@ -1,7 +1,6 @@
 # keiya-sato
-## Profile
 Tokyo $\leftarrow$ Akita<br>
-A student at Tokyo Metropolitan University @yokoyamalab and softwear engineer @line<br>
+A student at Tokyo Metropolitan University and softwear engineer at LINE corp.
 
 ## Competitive Programming
 - AtCoder: [kya](https://atcoder.jp/users/kya)
