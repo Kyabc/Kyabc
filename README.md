@@ -2,10 +2,10 @@ Tokyo $\leftarrow$ Akita<br>
 A student at Tokyo Metropolitan University and softwear engineer at LINE corp.
 
 ## Competitive Programming
-- AtCoder: [kya](https://atcoder.jp/users/kya)
-- Codeforces: [kyaa](https://codeforces.com/profile/kyaa)
-- Top Coder: [kya](https://www.topcoder.com/members/kya)
-- LeetCode: [kyaa](https://leetcode.com/kyaa/)
+- [AtCoder](https://atcoder.jp/users/kya)
+- [Codeforces](https://codeforces.com/profile/kyaa)
+- [Top Coder](https://www.topcoder.com/members/kya)
+- [LeetCode](https://leetcode.com/kyaa/)
 
 ## GitHub
 <p align="left"> 
