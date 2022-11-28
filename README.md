@@ -1,4 +1,3 @@
-# keiya-sato
 Tokyo $\leftarrow$ Akita<br>
 A student at Tokyo Metropolitan University and softwear engineer at LINE corp.
 
