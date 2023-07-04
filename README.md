@@ -19,7 +19,7 @@
 
 - 🏫 Student at Tokyo Metropolitan University [@YokoyamaLab](https://github.com/YokoyamaLab)<br>
 - 💻 Software engineer at LINE corp.<br>
-- 💡 I'm interested in competitive programming, artificial intelligence, graph theory, and NLProc.
+- 💡 I'm interested in competitive programming, social media, graph theory, and NLProc.
 
 <h4 align="left">Hobby:</h3>
 
