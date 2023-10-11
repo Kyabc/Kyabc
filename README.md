@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there 👋👋👋
 </h1>
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/Kyabc/Kyabc/">
     <img src="https://komarev.com/ghpvc/?username=Kyabc" alt="Kyabc" />
   </a>
@@ -14,7 +14,7 @@
   <a href="https://atcoder.jp/users/kya?contestType=algo">
     <img src="https://badgen.org/img/atcoder/kya/rating/algorithm?style=flat" alt="Rating" />
   </a>
-</p>
+</p> -->
 <h2 align="left">🐾Profile:</h3>
 
 - 🏫 Student at Tokyo Metropolitan University [@YokoyamaLab](https://github.com/YokoyamaLab)<br>
@@ -23,8 +23,8 @@
 
 <h4 align="left">Hobby:</h3>
 
-- game🎮: VALORANT, Splatoon3, Apex Legends, etc...
-- competitive programming🐜: blue coder in AtCoder. Participated in ICPC Asia Yokohama Regional 2022.
+- game🎮: VALORANT, Minecraft, ApexLegends etc...
+- competitive programming🐜: blue coder in AtCoder. Participated in ICPC Asia Yokohama Regional 2022 and 2023.
 - music🎧: Leo Ieiri, 4s4ki, (sic)boy, wa-suta, etc...
 
 <h2 align="left">🐾Languages and Tools:</h3>
