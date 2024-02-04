@@ -18,7 +18,7 @@
 <h2 align="left">🐾Profile:</h3>
 
 - 🏫 Student at Tokyo Metropolitan University [@YokoyamaLab](https://github.com/YokoyamaLab)<br>
-- 💻 Software engineer at LINE corp.<br>
+- 💻 Software engineer at SB Intuitions.<br>
 - 💡 I'm interested in competitive programming, social media, graph theory, and NLProc.
 
 <h4 align="left">Hobby:</h3>
