@@ -15,5 +15,8 @@
     <img src="https://badgen.org/img/atcoder/kya/rating/algorithm?style=flat" alt="Rating" />
   </a>
 </p> -->
+
 <h2 align="left">🐾Profile:</h3>
-Student at Tokyo Metropolitan University [@YokoyamaLab](https://github.com/YokoyamaLab)<br>
+
+- Student at Tokyo Metropolitan University [@YokoyamaLab](https://github.com/YokoyamaLab)
+- SWE at SB Intuitions Corp.
