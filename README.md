@@ -19,4 +19,3 @@
 <h2 align="left">🐾Profile:</h3>
 
 - Student at Tokyo Metropolitan University [@YokoyamaLab](https://github.com/YokoyamaLab)
-- SWE at SB Intuitions Corp.
